@@ -5,10 +5,6 @@ public class Temp {
        System.out.println("i have changed my branch");
     }
    //psvm
-    // commented the psvm
-
-    // D1 Branch Changes with comments
-    // added comment in main
     // D2 Branch Changes with comments
     // D2 Branch Changes with comments
 
